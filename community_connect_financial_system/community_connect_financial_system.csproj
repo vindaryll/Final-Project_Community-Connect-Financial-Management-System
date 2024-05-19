@@ -1,0 +1,530 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DDC3BA39-EC6D-41B8-A3F0-E18FC877D76D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>community_connect_financial_system</RootNamespace>
+    <AssemblyName>community_connect_financial_system</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Cryptography, Version=2.0.0.0, Culture=neutral, PublicKeyToken=072edcf4a5328938, processorArchitecture=MSIL">
+      <HintPath>..\packages\BouncyCastle.Cryptography.2.2.1\lib\net461\BouncyCastle.Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf, Version=3.25.1.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Protobuf.3.25.1\lib\net45\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.6\lib\net472\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4, Version=1.3.5.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.1.3.5\lib\net462\K4os.Compression.LZ4.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4.Streams, Version=1.3.5.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.Streams.1.3.5\lib\net462\K4os.Compression.LZ4.Streams.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Hash.xxHash, Version=1.0.8.0, Culture=neutral, PublicKeyToken=32cd54395057cec3, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Hash.xxHash.1.0.8\lib\net462\K4os.Hash.xxHash.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.0.9.7\lib\net45\LiveCharts.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.WinForms, Version=0.9.7.1, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.WinForms.0.9.7.1\lib\net45\LiveCharts.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.Wpf, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.Wpf.0.9.7\lib\net45\LiveCharts.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.5.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.3.0.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.3.0\lib\net462\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="NuGet.Frameworks, Version=6.9.1.3, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\NuGet.Frameworks.6.9.1\lib\net472\NuGet.Frameworks.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.ConfigurationManager, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Configuration.ConfigurationManager.4.4.1\lib\net461\System.Configuration.ConfigurationManager.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=7.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.7.0.2\lib\net462\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Pipelines, Version=5.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.Pipelines.5.0.2\lib\net461\System.IO.Pipelines.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+    <Reference Include="ZstdSharp, Version=0.7.1.0, Culture=neutral, PublicKeyToken=8d151af33a4ad5cf, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZstdSharp.Port.0.7.1\lib\net461\ZstdSharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\Dbconnect.cs" />
+    <Compile Include="Classes\Functions.cs" />
+    <Compile Include="Classes\PublicVariables.cs" />
+    <Compile Include="Forms\Account_Settings\Form1_enterpass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Account_Settings\Form1_enterpass.Designer.cs">
+      <DependentUpon>Form1_enterpass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Account_Settings\Form2_interface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Account_Settings\Form2_interface.Designer.cs">
+      <DependentUpon>Form2_interface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Account_Settings\Form3_changeEmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Account_Settings\Form3_changeEmail.Designer.cs">
+      <DependentUpon>Form3_changeEmail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Account_Settings\Form4_changePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Account_Settings\Form4_changePassword.Designer.cs">
+      <DependentUpon>Form4_changePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Account_Settings\Form5_changeUsername.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Account_Settings\Form5_changeUsername.Designer.cs">
+      <DependentUpon>Form5_changeUsername.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Form0_Start.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Form0_Start.Designer.cs">
+      <DependentUpon>Form0_Start.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Form1_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Form1_login.Designer.cs">
+      <DependentUpon>Form1_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Form2_forgotpass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Form2_forgotpass.Designer.cs">
+      <DependentUpon>Form2_forgotpass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Form3_resetpass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Form3_resetpass.Designer.cs">
+      <DependentUpon>Form3_resetpass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Form4_Homepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Form4_Homepage.Designer.cs">
+      <DependentUpon>Form4_Homepage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Funds\Form1_fundsInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Funds\Form1_fundsInterface.Designer.cs">
+      <DependentUpon>Form1_fundsInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Funds\Form2_AllocatedFundInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Funds\Form2_AllocatedFundInfo.Designer.cs">
+      <DependentUpon>Form2_AllocatedFundInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Funds\Form3_spend.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Funds\Form3_spend.Designer.cs">
+      <DependentUpon>Form3_spend.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Funds\Form4_transfer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Funds\Form4_transfer.Designer.cs">
+      <DependentUpon>Form4_transfer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Funds\Form7_distribute.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Funds\Form7_distribute.Designer.cs">
+      <DependentUpon>Form7_distribute.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Funds\Form5_UnallocatedFundInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Funds\Form5_UnallocatedFundInfo.Designer.cs">
+      <DependentUpon>Form5_UnallocatedFundInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Funds\Form6_cashin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Funds\Form6_cashin.Designer.cs">
+      <DependentUpon>Form6_cashin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Records\Form1_recordsInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Records\Form1_recordsInterface.Designer.cs">
+      <DependentUpon>Form1_recordsInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Records\Form2_distributionViewMore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Records\Form2_distributionViewMore.Designer.cs">
+      <DependentUpon>Form2_distributionViewMore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Records\Form3_orderViewMore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Records\Form3_orderViewMore.Designer.cs">
+      <DependentUpon>Form3_orderViewMore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Records\user_cashin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Records\user_cashin.Designer.cs">
+      <DependentUpon>user_cashin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Records\user_distribution.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Records\user_distribution.Designer.cs">
+      <DependentUpon>user_distribution.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Records\user_expenses.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Records\user_expenses.Designer.cs">
+      <DependentUpon>user_expenses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Records\user_order.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Records\user_order.Designer.cs">
+      <DependentUpon>user_order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Records\user_transfer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Records\user_transfer.Designer.cs">
+      <DependentUpon>user_transfer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Misc_Forms\tutorial_vid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Misc_Forms\tutorial_vid.Designer.cs">
+      <DependentUpon>tutorial_vid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Misc_Forms\UserControl1_Piechart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Misc_Forms\UserControl1_Piechart.Designer.cs">
+      <DependentUpon>UserControl1_Piechart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\Account_Settings\Form1_enterpass.resx">
+      <DependentUpon>Form1_enterpass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Account_Settings\Form2_interface.resx">
+      <DependentUpon>Form2_interface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Account_Settings\Form3_changeEmail.resx">
+      <DependentUpon>Form3_changeEmail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Account_Settings\Form4_changePassword.resx">
+      <DependentUpon>Form4_changePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Account_Settings\Form5_changeUsername.resx">
+      <DependentUpon>Form5_changeUsername.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Form0_Start.resx">
+      <DependentUpon>Form0_Start.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Form1_login.resx">
+      <DependentUpon>Form1_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Form2_forgotpass.resx">
+      <DependentUpon>Form2_forgotpass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Form3_resetpass.resx">
+      <DependentUpon>Form3_resetpass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Form4_Homepage.resx">
+      <DependentUpon>Form4_Homepage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Funds\Form1_fundsInterface.resx">
+      <DependentUpon>Form1_fundsInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Funds\Form2_AllocatedFundInfo.resx">
+      <DependentUpon>Form2_AllocatedFundInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Funds\Form3_spend.resx">
+      <DependentUpon>Form3_spend.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Funds\Form4_transfer.resx">
+      <DependentUpon>Form4_transfer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Funds\Form7_distribute.resx">
+      <DependentUpon>Form7_distribute.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Funds\Form5_UnallocatedFundInfo.resx">
+      <DependentUpon>Form5_UnallocatedFundInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Funds\Form6_cashin.resx">
+      <DependentUpon>Form6_cashin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Records\Form1_recordsInterface.resx">
+      <DependentUpon>Form1_recordsInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Records\Form2_distributionViewMore.resx">
+      <DependentUpon>Form2_distributionViewMore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Records\Form3_orderViewMore.resx">
+      <DependentUpon>Form3_orderViewMore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Records\user_cashin.resx">
+      <DependentUpon>user_cashin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Records\user_distribution.resx">
+      <DependentUpon>user_distribution.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Records\user_expenses.resx">
+      <DependentUpon>user_expenses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Records\user_order.resx">
+      <DependentUpon>user_order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Records\user_transfer.resx">
+      <DependentUpon>user_transfer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Misc_Forms\tutorial_vid.resx">
+      <DependentUpon>tutorial_vid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Misc_Forms\UserControl1_Piechart.resx">
+      <DependentUpon>UserControl1_Piechart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login_page.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forgotpass_verification.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\resetpass.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Community Connect Finance.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enterpass.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Homepage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accountinterface.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\changeemail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\changepass.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\changeusername.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundsinterface.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\allocatedfundsinfo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unallocatedfundsinfo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transfer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cashin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\distribute.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recordinterface.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_expenses.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_transfer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_cashin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\distribution_viewmore.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_distribution.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_transactions_order.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transactions_order_viewmore.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\main_Form2_forgotpass.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\account_Form3_changeEmail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\funds_Form3_spend.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\try vid bg 2.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Misc_files\Community_Connect_Financial_Video tutorial.mp4" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

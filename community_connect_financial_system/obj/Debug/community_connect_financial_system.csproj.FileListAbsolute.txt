@@ -1,0 +1,235 @@
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\community_connect_financial_system.exe.config
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\community_connect_financial_system.exe
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\community_connect_financial_system.pdb
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\Google.Protobuf.dll
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\MySql.Data.dll
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\NuGet.Frameworks.dll
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Buffers.dll
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Memory.dll
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\ZstdSharp.dll
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\Google.Protobuf.pdb
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\Google.Protobuf.xml
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\MySql.Data.xml
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Buffers.xml
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Memory.xml
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.csproj.AssemblyReference.cache
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Properties.Resources.resources
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.csproj.GenerateResource.cache
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.csproj.CoreCompileInputs.cache
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.csproj.CopyComplete
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.exe
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.pdb
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\LiveCharts.dll
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\LiveCharts.pdb
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\LiveCharts.xml
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Account_Settings.Form1_enterpass.resources
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Account_Settings.Form2_interface.resources
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Account_Settings.Form3_changeEmail.resources
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Account_Settings.Form4_changePassword.resources
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Form1_login.resources
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Form2_forgotpass.resources
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Form3_resetpass.resources
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Form4_Homepage.resources
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Funds.Form1_fundsInterface.resources
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Records.Form1_recordsInterface.resources
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Misc_Forms.UserControl1_Piechart.resources
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Funds.Form2_AllocatedFundInfo.resources
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Funds.Form3_spend.resources
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Funds.Form4_transfer.resources
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Funds.Form6_cashin.resources
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Funds.Form7_distribute.resources
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Funds.Form5_UnallocatedFundInfo.resources
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Records.user_cashin.resources
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Records.user_distribution.resources
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Records.user_expenses.resources
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Records.user_transfer.resources
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Records.user_order.resources
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Records.Form2_distributionViewMore.resources
+C:\Users\Von Razel\source\repos\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Records.Form3_orderViewMore.resources
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\community_connect_financial_system.exe.config
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\community_connect_financial_system.exe
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\community_connect_financial_system.pdb
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\Google.Protobuf.dll
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\LiveCharts.dll
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\MySql.Data.dll
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\NuGet.Frameworks.dll
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Buffers.dll
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Memory.dll
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\ZstdSharp.dll
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\Google.Protobuf.pdb
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\Google.Protobuf.xml
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\LiveCharts.pdb
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\LiveCharts.xml
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\MySql.Data.xml
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Buffers.xml
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Memory.xml
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.csproj.AssemblyReference.cache
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Account_Settings.Form1_enterpass.resources
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Account_Settings.Form2_interface.resources
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Account_Settings.Form3_changeEmail.resources
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Account_Settings.Form4_changePassword.resources
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Form1_login.resources
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Form2_forgotpass.resources
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Form3_resetpass.resources
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Form4_Homepage.resources
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Funds.Form1_fundsInterface.resources
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Funds.Form2_AllocatedFundInfo.resources
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Funds.Form3_spend.resources
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Funds.Form4_transfer.resources
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Funds.Form7_distribute.resources
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Funds.Form5_UnallocatedFundInfo.resources
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Funds.Form6_cashin.resources
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Records.Form1_recordsInterface.resources
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Records.Form2_distributionViewMore.resources
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Records.Form3_orderViewMore.resources
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Records.user_cashin.resources
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Records.user_distribution.resources
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Records.user_expenses.resources
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Records.user_order.resources
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Records.user_transfer.resources
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Misc_Forms.UserControl1_Piechart.resources
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Properties.Resources.resources
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.csproj.GenerateResource.cache
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.csproj.CoreCompileInputs.cache
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.csproj.CopyComplete
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.exe
+C:\Users\Von Razel\Documents\Adbms backup\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.pdb
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\community_connect_financial_system.exe.config
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\community_connect_financial_system.exe
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\community_connect_financial_system.pdb
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\Google.Protobuf.dll
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\LiveCharts.dll
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\MySql.Data.dll
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\NuGet.Frameworks.dll
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Buffers.dll
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.IO.Pipelines.dll
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Memory.dll
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\ZstdSharp.dll
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\Google.Protobuf.pdb
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\Google.Protobuf.xml
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\LiveCharts.pdb
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\LiveCharts.xml
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\MySql.Data.xml
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Buffers.xml
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.IO.Pipelines.xml
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Memory.xml
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.csproj.AssemblyReference.cache
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.csproj.SuggestedBindingRedirects.cache
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Account_Settings.Form1_enterpass.resources
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Account_Settings.Form2_interface.resources
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Account_Settings.Form3_changeEmail.resources
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Account_Settings.Form4_changePassword.resources
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Form1_login.resources
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Form2_forgotpass.resources
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Form3_resetpass.resources
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Form4_Homepage.resources
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Funds.Form1_fundsInterface.resources
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Funds.Form2_AllocatedFundInfo.resources
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Funds.Form3_spend.resources
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Funds.Form4_transfer.resources
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Funds.Form7_distribute.resources
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Funds.Form5_UnallocatedFundInfo.resources
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Funds.Form6_cashin.resources
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Records.Form1_recordsInterface.resources
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Records.Form2_distributionViewMore.resources
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Records.Form3_orderViewMore.resources
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Records.user_cashin.resources
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Records.user_distribution.resources
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Records.user_expenses.resources
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Records.user_order.resources
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Records.user_transfer.resources
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Misc_Forms.UserControl1_Piechart.resources
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Properties.Resources.resources
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.csproj.GenerateResource.cache
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.csproj.CoreCompileInputs.cache
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.csproj.CopyComplete
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.exe
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.pdb
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Account_Settings.Form5_changeUsername.resources
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Forms.Form0_Start.resources
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\Guna.UI2.dll
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\Interop.WMPLib.dll
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\Interop.WMPLib.dll
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.csproj.ResolveComReference.cache
+C:\Users\daryll\Downloads\May 2_backbone done\May 2_backbone done\community_connect_financial_system\community_connect_financial_system\obj\Debug\community_connect_financial_system.Misc_Forms.tutorial_vid.resources

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "community_connect_financial_system", "community_connect_financial_system\community_connect_financial_system.csproj", "{DDC3BA39-EC6D-41B8-A3F0-E18FC877D76D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDC3BA39-EC6D-41B8-A3F0-E18FC877D76D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC3BA39-EC6D-41B8-A3F0-E18FC877D76D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC3BA39-EC6D-41B8-A3F0-E18FC877D76D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC3BA39-EC6D-41B8-A3F0-E18FC877D76D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F12B463-2ED1-4E0B-B207-DB362C279C41}
+	EndGlobalSection
+EndGlobal
