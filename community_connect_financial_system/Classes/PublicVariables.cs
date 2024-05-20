@@ -8,6 +8,17 @@ namespace community_connect_finance_system.Classes
         // Find the "misc_files" folder
         // copy full path
         // paste it on "miscFilesPath" variable
+
+        /* Solution for .resx files may be blocked with an error
+        1. Use 'Open in Terminal' item of the solution in 'Solution Explorer'
+        2. Enter the next commands in opened 'Developer PowerShell terminal':
+
+            Get-ChildItem *.resx -Recurse | Unblock-File
+
+        3. The command will complete without a confirmation.
+        4. The projects in the solution now can be built.
+        */
+
         public static string dbname = "community_connect_db";
         public static string miscFilesPath = "C:\\Users\\daryll\\Downloads\\May 2_backbone done\\May 2_backbone done\\community_connect_financial_system\\community_connect_financial_system\\Misc_files\\";
 
