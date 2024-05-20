@@ -3,7 +3,11 @@ namespace community_connect_finance_system.Classes
 {
     public static class PublicVariables
     {
-        // insert your dbname/"misc_files" folder path
+        // insert your dbname and "misc_files" folder path
+        // Go to Solution Explorer
+        // Find the "misc_files" folder
+        // copy full path
+        // paste it on "miscFilesPath" variable
         public static string dbname = "community_connect_db";
         public static string miscFilesPath = "C:\\Users\\daryll\\Downloads\\May 2_backbone done\\May 2_backbone done\\community_connect_financial_system\\community_connect_financial_system\\Misc_files\\";
 

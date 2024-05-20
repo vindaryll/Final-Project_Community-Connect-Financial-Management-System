@@ -20,10 +20,7 @@ namespace community_connect_financial_system.Misc_Forms
             InitializeComponent();
             // insert the vid
             string loc = $"{Pv.miscFilesPath}Community_Connect_Financial_Video tutorial.mp4";
-            axWindowsMediaPlayer1.URL = loc;
-            
-
-
+            axWindowsMediaPlayer1.URL = loc;          
         }
 
         private void btn_back_Click(object sender, EventArgs e)
